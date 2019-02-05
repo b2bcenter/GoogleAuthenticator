@@ -1,5 +1,5 @@
 Google Authenticator PHP class
-==============================
+===============================
 
 * Copyright (c) 2012-2016, [http://www.phpgangsta.de](http://www.phpgangsta.de)
 * Author: Michael Kliewe, [@PHPGangsta](http://twitter.com/PHPGangsta) and [contributors](https://github.com/PHPGangsta/GoogleAuthenticator/graphs/contributors)
